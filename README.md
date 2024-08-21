@@ -16,4 +16,7 @@ I am a dedicated backend developer who is passionate about creating and developi
   <li>
     Javascript, Typescript, Python, C# ... (Programming Language)
   </li>
+  <li>
+    Trading APIs, Copy Trading for Forex Trading (Main Tech Stack)
+  </li>
 </ul>
