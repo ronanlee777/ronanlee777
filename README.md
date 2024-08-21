@@ -5,15 +5,15 @@ I am a dedicated backend developer who is passionate about creating and developi
 <h3>My Skills</h3>
 <ul>
   <li>
-    Express.js, Next.js, ASP.NET, Flask, Django (Backend Framework)
+    Express.js, Next.js, ASP.NET, Flask, Django ... (Backend Framework)
   </li>
   <li>
-    MySQL, PostgreSQL, MongoDB (Database)
+    MySQL, PostgreSQL, MongoDB ... (Database)
   </li>
   <li>
-    AWS, Bluehost, Hostinger (Cloud)
+    AWS, Bluehost, Hostinger, Google Drive ... (Cloud)
   </li>
   <li>
-    Javascript, Typescript, Python, C# (Programming Language)
+    Javascript, Typescript, Python, C# ... (Programming Language)
   </li>
 </ul>
